@@ -86,7 +86,6 @@ var userChoices = {
   
   }
   
-  getChoices()
 
 
 // Get references to the #generate element
