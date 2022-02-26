@@ -23,28 +23,29 @@ var userChoices = {
 }
   
   // an function that gets user choices and saves them to our object
-  function getChoices() {
+function getChoices() {
     // user choices
     userChoices.length = parseInt(prompt("how many characters"))
+     
+    if (!(userChoices.length >= 8 && userChoices.length <= 128)) {
+        alert('chose an incorrect value, setting to 8 characters')
+        return getChoices()
+    
+    }
+
     userChoices.lowerCase = confirm("would you like lower")
     userChoices.upperCase = confirm("would you like upper")
     userChoices.numeric = confirm("would you like numeric")
     userChoices.special = confirm("would you like special")
-  }
+}
     
    
    
    getChoices()
    
-   // make sure there is at least 8 characters
+ 
     
-  console.log(userChoices)
-   
-   //if (userChoices.length >= 8 && userChoices.length <= 128) {
-      //userChoices.length = length
-    //} else {
-    //  alert('chose an incorrect value, setting to 8 characters')
-    //}
+  
   
   
     // generate a password
