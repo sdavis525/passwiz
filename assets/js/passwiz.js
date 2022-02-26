@@ -95,10 +95,9 @@ function getChoices() {
 function writePassword() {
     var password = generatePassword();
     
-    console.log(password)
-    //var passwordText = document.querySelector("#password");
+    var passwordText = document.querySelector("#password");
   
-    //passwordText.value = password;
+    passwordText.value = password;
   
   }
 
