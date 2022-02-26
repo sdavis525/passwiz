@@ -55,23 +55,26 @@ function getChoices() {
         var password = ""
         var choicesArr = []
         if (userChoices.special) {
-          choicesArr.push(special)
-        }
-        if (userChoices.lower) {
-          choicesArr.push(lower)
-        }
-        if (userChoices.numeric) {
-          choicesArr.push(numeric)
-        }
-        if (userChoices.upper) {
-            choicesArr.push(upper)
-        }
-        for (var i=0; i<userChoices.length; i++) {
-        
-            console.log(choicesArr)
-            password += getCharacter(choicesArr[Math.floor(Math.random() * choicesArr.length)])
-        }
        
+            choicesArr= [...choicesArr, ...special]
+        }
+    
+       if (userChoices.lowerCase) {
+         choicesArr= [...choicesArr, ...lower]
+        }
+      
+       if (userChoices.numeric) {
+        choicesArr= [...choicesArr, ...numeric]
+      }
+      
+       if (userChoices.upperCase) {
+        choicesArr= [...choicesArr, ...upper]
+        }
+        
+       for (var i=0; i<userChoices.length; i++) {
+         password += getCharacter(choicesArr[Math.floor(Math.random() * choicesArr.length)])
+       }
+       return password
     }
 
       
@@ -91,25 +94,24 @@ function getChoices() {
 // Write password to the #password input
 function writePassword() {
     var password = generatePassword();
-    var passwordText = document.querySelector("#password");
+    
+    console.log(password)
+    //var passwordText = document.querySelector("#password");
   
-    passwordText.value = password;
+    //passwordText.value = password;
   
   }
 
 
-  //generatePassword() 
- 
-  //getChoices()
      
 
 
 // Add event listener to generate button
 
-//var generateBtn=document.querySelector("#generate")
+var generateBtn=document.querySelector("#generate")
 
 
-//generateBtn.addEventListener("click", writePassword);
+generateBtn.addEventListener("click", writePassword);
 
 
 
