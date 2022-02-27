@@ -23,3 +23,14 @@ WHEN all prompts are answered
 THEN a password is generated that matches the selected criteria
 WHEN the password is generated
 THEN the password is either displayed in an alert or written to the page
+
+
+https://github.com/sdavis525/passwiz.git
+
+
+![Uploading Screen Shot 2022-02-25 at 12.59.18 PM.png…]()
+<img width="1512" alt="Screen Shot 2022-02-24 at 8 04 27 PM" src="https://user-images.githubusercontent.com/98237529/155866058-e9d1fedf-582f-414a-8cbc-6208001cecc3.png">
+<img width="1512" alt="Screen Shot 2022-02-26 at 11 38 44 AM" src="https://user-images.githubusercontent.com/98237529/155866066-d0c7406a-84a3-4fe9-b3c9-b3ed761a8a7c.png">
+<im
+<img width="1512" alt="Screen Shot 2022-02-25 at 12 59 11 PM" src="https://user-images.githubusercontent.com/98237529/155866078-e2a92022-5225-4e45-9b82-7b1ef4464fb9.png">
+<img width="1512" alt="Screen Shot 2022-02-24 at 8 51 03 PM" src="https://user-images.githubusercontent.com/98237529/155866096-f8ab3506-04f4-49df-8ba2-eee88771454f.png">
