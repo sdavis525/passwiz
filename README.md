@@ -27,10 +27,10 @@ THEN the password is either displayed in an alert or written to the page
 
 https://github.com/sdavis525/passwiz.git
 
+<img width="1512" alt="Screen Shot 2022-02-25 at 12 59 11 PM" src="https://user-images.githubusercontent.com/98237529/155867457-a4dbc6af-b77f-42f4-b487-8fa145f868dc.png">
+<img width="1512" alt="Screen Shot 2022-02-25 at 12 59 18 PM" src="https://user-images.githubusercontent.com/98237529/155867465-e2fdd510-c7df-4716-ba56-5261325ec853.png">
 
-![Uploading Screen Shot 2022-02-25 at 12.59.18 PM.png…]()
-<img width="1512" alt="Screen Shot 2022-02-24 at 8 04 27 PM" src="https://user-images.githubusercontent.com/98237529/155866058-e9d1fedf-582f-414a-8cbc-6208001cecc3.png">
-<img width="1512" alt="Screen Shot 2022-02-26 at 11 38 44 AM" src="https://user-images.githubusercontent.com/98237529/155866066-d0c7406a-84a3-4fe9-b3c9-b3ed761a8a7c.png">
-<im
-<img width="1512" alt="Screen Shot 2022-02-25 at 12 59 11 PM" src="https://user-images.githubusercontent.com/98237529/155866078-e2a92022-5225-4e45-9b82-7b1ef4464fb9.png">
-<img width="1512" alt="Screen Shot 2022-02-24 at 8 51 03 PM" src="https://user-images.githubusercontent.com/98237529/155866096-f8ab3506-04f4-49df-8ba2-eee88771454f.png">
+<img width="1512" alt="Screen Shot 2022-02-25 at 12 59 26 PM" src="https://user-images.githubusercontent.com/98237529/155867469-c1524f8f-4066-42cc-90ed-ea8cdaa40ca6.png">
+<img width="1512" alt="Screen Shot 2022-02-26 at 11 38 31 AM" src="https://user-images.githubusercontent.com/98237529/155867478-81a7b4ed-2136-4dad-9de4-3613984d3d47.png">
+<img width="1512" alt="Screen Shot 2022-02-24 at 8 04 27 PM" src="https://user-images.githubusercontent.com/98237529/155867482-852f97c1-4772-430f-95e5-9051311fe9e3.png">
+<img width="1512" alt="Screen Shot 2022-02-26 at 10 52 09 PM" src="https://user-images.githubusercontent.com/98237529/155867499-1745a2d6-10f3-4c4d-be53-1001ce3c0208.png">
