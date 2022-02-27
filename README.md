@@ -32,5 +32,5 @@ https://github.com/sdavis525/passwiz.git
 
 <img width="1512" alt="Screen Shot 2022-02-25 at 12 59 26 PM" src="https://user-images.githubusercontent.com/98237529/155867469-c1524f8f-4066-42cc-90ed-ea8cdaa40ca6.png">
 <img width="1512" alt="Screen Shot 2022-02-26 at 11 38 31 AM" src="https://user-images.githubusercontent.com/98237529/155867478-81a7b4ed-2136-4dad-9de4-3613984d3d47.png">
-<img width="1512" alt="Screen Shot 2022-02-24 at 8 04 27 PM" src="https://user-images.githubusercontent.com/98237529/155867482-852f97c1-4772-430f-95e5-9051311fe9e3.png">
+
 <img width="1512" alt="Screen Shot 2022-02-26 at 10 52 09 PM" src="https://user-images.githubusercontent.com/98237529/155867499-1745a2d6-10f3-4c4d-be53-1001ce3c0208.png">
