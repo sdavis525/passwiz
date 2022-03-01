@@ -24,8 +24,8 @@ THEN a password is generated that matches the selected criteria
 WHEN the password is generated
 THEN the password is either displayed in an alert or written to the page
 
-
-https://github.com/sdavis525/passwiz.git
+Deployment link
+https://sdavis525.github.io/passwiz/
 
 <img width="1512" alt="Screen Shot 2022-02-25 at 12 59 11 PM" src="https://user-images.githubusercontent.com/98237529/155867457-a4dbc6af-b77f-42f4-b487-8fa145f868dc.png">
 <img width="1512" alt="Screen Shot 2022-02-25 at 12 59 18 PM" src="https://user-images.githubusercontent.com/98237529/155867465-e2fdd510-c7df-4716-ba56-5261325ec853.png">
